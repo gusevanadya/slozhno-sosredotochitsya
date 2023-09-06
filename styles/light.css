@@ -1,5 +1,5 @@
 .page.theme_light {
-  --bg-color: ##fff1f7;
+  --bg-color: #fff1f7;
   --title-color: #ffc2e6;
   --accent-color: #ff8dcB;
   --accent-text-color: #353430;
@@ -11,7 +11,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --bg-color: ##fff1f7;
+    --bg-color: #fff1f7;
     --title-color: #ffc2e6;
     --accent-color: #ff8dcB;
     --accent-text-color: #353430;
